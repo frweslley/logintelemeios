@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: whitesmoke;
+  font-family: "Roboto";
+  font-size: 1rem;
+}
+
+form {
+  margin: auto;
+  width: 360px;
+  padding: 100px 25px 0;
+}
+
+a {
+  font-size: 0.9rem;
+}
+
+.btn {
+  margin: 0 0 30px;
+  background-color: #255474;
+  color: #ffffff;
+}
+
+.form-check {
+  text-align: left;
+  color: #434343;
+}
+
+.logo-telemeios {
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+.text-muted {
+  margin-top: 50px;
+}
